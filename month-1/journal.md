@@ -1,0 +1,1 @@
+Day 1 : it's 5 pm after work, and I found this book called  "The C Programming Language" by Brian W. Kerninghan & Dennis M. Ritchie. after searching stuff mentioned in learn.md. I'll start reading that as a starter.
